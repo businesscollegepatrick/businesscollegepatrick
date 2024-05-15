@@ -2,7 +2,9 @@
 - 👀 I’m interested in coding and web developing.
 - 🌱 I’m currently learning javascript, node, react, SQL...
 - 📫 How to reach me: reach me in: businesscollege.patrick@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
+
+https://github.com/businesscollegepatrick 
 
 <!---
 businesscollegepatrick/businesscollegepatrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
